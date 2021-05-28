@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小帅的博客</title>
+  
+  <subtitle>small-handsome</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://small-handsome/"/>
+  <updated>2021-05-24T11:55:13.950Z</updated>
+  <id>https://small-handsome/</id>
+  
+  <author>
+    <name>小帅</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://small-handsome/2021/05/24/hello-world/"/>
+    <id>https://small-handsome/2021/05/24/hello-world/</id>
+    <published>2021-05-24T11:55:13.950Z</published>
+    <updated>2021-05-24T11:55:13.950Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
